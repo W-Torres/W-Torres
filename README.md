@@ -1,16 +1,13 @@
-### Hi there 👋
+Hello everyone!
 
-<!--
-**W-Torres/W-Torres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Willard Torres II:
 
-Here are some ideas to get you started:
+-  I'm a college student enrolled in RVCC
+- I am currently majoring in IT and Web Development 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here is a little bit about me:
+
+  ⚙️  I love working with technology (Software and Hardware)
+  🎮  I enjoy gaming in my downtime
+  📷  I enjoy photography as well
+  
