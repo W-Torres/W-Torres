@@ -7,9 +7,8 @@ My name is Willard Torres II.
 
 What I like to do outside of college:
 
-  ⚙️  I love working with technology (Software and Hardware) 
-  
-  🎮  I enjoy gaming in my downtime
-  
-  📷  I enjoy dabbling in some photography as well
-  
+⚙️  I love working with technology (Software and Hardware)
+
+🎮  I enjoy gaming in my downtime
+
+📷  I also enjoy dabbling in some photography as well
